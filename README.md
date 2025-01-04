@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Fouzi 👋
 
-Welcome to my GitHub profile! I'm a passionate developer interested in [Your Interests or Fields, e.g., web development, machine learning, open-source contributions]. Here's a little more about me:
+Welcome to my GitHub profile! I'm a passionate developer interested in Agentic AI, machine learning, open-source contributions. Here's a little more about me:
 
 ## About Me
 
