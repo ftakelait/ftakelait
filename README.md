@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ftakelait&show_icons=true&hide_border=true)
 
 ## Connect with Me
 
