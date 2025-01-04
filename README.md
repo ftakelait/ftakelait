@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**ftakelait/ftakelait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer interested in [Your Interests or Fields, e.g., web development, machine learning, open-source contributions]. Here's a little more about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Agentic AI
+- 🌱 I’m currently learning LLMs
+- 👯 I’m looking to collaborate on AI Startup
+- 🤔 I’m looking for help with Agentic AI Research
+- 💬 Ask me about NLP, DP, ML
+- 📫 How to reach me: ftakelait@gmail.com
+
+## My Skills
+
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: Python, JavaScript, Java
+- Frameworks and Libraries: PyTorch, TensorFlow
+- Tools and Platforms: [Git, Docker, GCP
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ftakelait/).
+
+Thank you for visiting my profile!
